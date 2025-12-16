@@ -1,5 +1,5 @@
 ## May you be cradled in gentleness
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VulpesStella&theme=default)
+![](https://raw.githubusercontent.com/VulpesStella/VulpesStella/main/profile-summary-card-output/github/0-profile-details.svg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VulpesStella&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VulpesStella&theme=default&utcOffset=8)
+![](https://raw.githubusercontent.com/VulpesStella/VulpesStella/main/profile-summary-card-output/github/3-stats.svg)  ![](https://raw.githubusercontent.com/VulpesStella/VulpesStella/main/profile-summary-card-output/github/1-repos-per-language.svg)
